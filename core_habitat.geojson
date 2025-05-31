@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "核心生境区段",
+        "probability": 95
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.40, 30.95],
+          [116.45, 31.00],
+          [116.60, 31.05],
+          [116.65, 31.00],
+          [116.55, 30.95],
+          [116.40, 30.95]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "核心生境区段",
+        "probability": 75
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [116.70, 31.10],
+          [116.75, 31.15],
+          [116.90, 31.20],
+          [116.95, 31.15],
+          [116.85, 31.10],
+          [116.70, 31.10]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "核心生境区段",
+        "probability": 50
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [117.00, 31.25],
+          [117.05, 31.30],
+          [117.20, 31.35],
+          [117.25, 31.30],
+          [117.15, 31.25],
+          [117.00, 31.25]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江心洲",
+        "type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.25, 31.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "张家湾",
+        "type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.35, 30.90]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "discovery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.80, 31.10]
+      }
+    }
+  ]
+} 
